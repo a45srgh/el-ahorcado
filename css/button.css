@@ -12,7 +12,8 @@ button {
 }
 
 .letra-oculta {
-    font-size: 50px
+    font-size: 50px;
     margin: 5px 10px;
-    backgroud
+    background-color: #DAF7A6; 
+    padding: 0px 10px;
 }
